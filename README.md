@@ -298,6 +298,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
 * [Nano](http://https://www.nano-editor.org/) - A popular text editor, by default comes with most Linux distributions.
 * [Visual Studio Code](https://code.visualstudio.com/) - Fast, hackable, multi-platform code editor from Microsoft.
+* [GitPod](https://gitpod.io) - GitPod allows you to code in the cloud/browser and automate your dev-environment (works with github, gitlab and bitbucket).
 
 ## IT Asset Management
 
